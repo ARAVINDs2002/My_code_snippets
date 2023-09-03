@@ -1,6 +1,6 @@
 import pyqrcode
 
-s = "www.geeksforgeeks.org"
+s = "www.facebook.org"
 
 
 url = pyqrcode.create(s)
