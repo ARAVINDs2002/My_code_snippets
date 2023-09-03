@@ -154,3 +154,5 @@ switch (option)
 }
 }
 
+//the above sourcecode can be copied and pasted in a compiler to get the required output and to understand the working
+
